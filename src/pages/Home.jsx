@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profile from "./assets/portfolio.jpg";
+import profile from "../assets/Portfolio.jpg";
 
 export default function Home() {
   return (
